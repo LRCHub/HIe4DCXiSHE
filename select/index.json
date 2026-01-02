@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Super Express",
+  "base_artist": "yonige",
+  "createdAt": "2026-01-02T16:18:46.307712Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Super Express",
+      "artist": "yonige",
+      "has_synced": true,
+      "path": "select/01_Super_Express_yonige.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Super Express",
+      "artist": "yonige",
+      "has_synced": false,
+      "path": "select/pl_01_Super_Express_yonige.txt"
+    }
+  ]
+}
