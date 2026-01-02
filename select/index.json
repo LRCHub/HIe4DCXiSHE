@@ -1,24 +1,32 @@
 {
   "version": 1,
-  "base_track": "Super Express",
-  "base_artist": "yonige",
-  "createdAt": "2026-01-02T16:18:46.307712Z",
+  "base_track": "Burning Friday Night",
+  "base_artist": "Lucky Kilimanjaro",
+  "createdAt": "2026-01-02T16:19:02.051325Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "Super Express",
-      "artist": "yonige",
+      "title": "Burning Friday Night",
+      "artist": "Lucky Kilimanjaro",
       "has_synced": true,
-      "path": "select/01_Super_Express_yonige.lrc"
+      "path": "select/01_Burning_Friday_Night_Lucky_Kilimanjaro.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Burning Friday Night (Paused)",
+      "artist": "Lucky Kilimanjaro",
+      "has_synced": true,
+      "path": "select/02_Burning_Friday_Night_(Paused)_Lucky_Kilimanjaro.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "Super Express",
-      "artist": "yonige",
+      "title": "Burning Friday Night",
+      "artist": "Lucky Kilimanjaro",
       "has_synced": false,
-      "path": "select/pl_01_Super_Express_yonige.txt"
+      "path": "select/pl_01_Burning_Friday_Night_Lucky_Kilimanjaro.txt"
     }
   ]
 }
